@@ -1,0 +1,12 @@
+C:\Programming232\MoveStuff\MoveStuff\bin\Debug\MoveStuff.exe.config
+C:\Programming232\MoveStuff\MoveStuff\bin\Debug\MoveStuff.exe
+C:\Programming232\MoveStuff\MoveStuff\bin\Debug\MoveStuff.pdb
+C:\Programming232\MoveStuff\MoveStuff\bin\Debug\MoveStuff.xml
+C:\Programming232\MoveStuff\MoveStuff\obj\Debug\MoveStuff.Form1.resources
+C:\Programming232\MoveStuff\MoveStuff\obj\Debug\MoveStuff.Resources.resources
+C:\Programming232\MoveStuff\MoveStuff\obj\Debug\MoveStuff.vbproj.GenerateResource.cache
+C:\Programming232\MoveStuff\MoveStuff\obj\Debug\MoveStuff.vbproj.CoreCompileInputs.cache
+C:\Programming232\MoveStuff\MoveStuff\obj\Debug\MoveStuff.exe
+C:\Programming232\MoveStuff\MoveStuff\obj\Debug\MoveStuff.xml
+C:\Programming232\MoveStuff\MoveStuff\obj\Debug\MoveStuff.pdb
+C:\Programming232\MoveStuff\MoveStuff\obj\Debug\MoveStuff.vbprojAssemblyReference.cache
