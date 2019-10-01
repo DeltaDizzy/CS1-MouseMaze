@@ -1,0 +1,12 @@
+C:\Programming232\BoardGame\BoardGame\bin\Debug\BoardGame.exe.config
+C:\Programming232\BoardGame\BoardGame\bin\Debug\BoardGame.exe
+C:\Programming232\BoardGame\BoardGame\bin\Debug\BoardGame.pdb
+C:\Programming232\BoardGame\BoardGame\bin\Debug\BoardGame.xml
+C:\Programming232\BoardGame\BoardGame\obj\Debug\BoardGame.vbprojAssemblyReference.cache
+C:\Programming232\BoardGame\BoardGame\obj\Debug\BoardGame.Form1.resources
+C:\Programming232\BoardGame\BoardGame\obj\Debug\BoardGame.Resources.resources
+C:\Programming232\BoardGame\BoardGame\obj\Debug\BoardGame.vbproj.GenerateResource.cache
+C:\Programming232\BoardGame\BoardGame\obj\Debug\BoardGame.vbproj.CoreCompileInputs.cache
+C:\Programming232\BoardGame\BoardGame\obj\Debug\BoardGame.exe
+C:\Programming232\BoardGame\BoardGame\obj\Debug\BoardGame.xml
+C:\Programming232\BoardGame\BoardGame\obj\Debug\BoardGame.pdb
